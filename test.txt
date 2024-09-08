@@ -2,3 +2,4 @@ Git is free software.
 Git is a version control system.
 I believe I can learn Git well!
 Git has a mutable index called stage.
+Git tracks changes.
